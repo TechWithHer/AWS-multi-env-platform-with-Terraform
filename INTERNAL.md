@@ -1,4 +1,4 @@
-#Version 1: 
+## Version 1: 
 
 Creating the Project Structure.
 - Modules
@@ -6,8 +6,6 @@ Creating the Project Structure.
 - Creating the working environment (local setup and .gitignore)
 
 
-
-Yes. If your goal is to have a GitHub project that genuinely supports that CV bullet, then you should redesign the Docker project into a **real AWS multi-environment platform project**.
 
 ## Final Architecture
 
