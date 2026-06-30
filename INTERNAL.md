@@ -4,6 +4,7 @@ Creating the Project Structure.
 - Creating the working environment (local setup and .gitignore)
 - Modules and Environment [prod, dev, staging]
 - Copying the docker project here : [Project Repo](https://github.com/TechWithHer/Multi-Environment-Web-Service-with-Terraform)
+- TEST THE PROJECT ON AWS EC2 with DOCKER
 
 
 
