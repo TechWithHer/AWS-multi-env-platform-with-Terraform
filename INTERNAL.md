@@ -1,10 +1,9 @@
-## Version 1: 
+## Version 1: Building basic blocks
 
 Creating the Project Structure.
-- Modules
-- Environment [prod, dev, staging]
 - Creating the working environment (local setup and .gitignore)
-- Mapping the docker project here : [Project Repo](https://github.com/TechWithHer/Multi-Environment-Web-Service-with-Terraform)
+- Modules and Environment [prod, dev, staging]
+- Copying the docker project here : [Project Repo](https://github.com/TechWithHer/Multi-Environment-Web-Service-with-Terraform)
 
 
 
