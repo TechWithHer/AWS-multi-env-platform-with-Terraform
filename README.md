@@ -2,7 +2,7 @@
 
 ![Terraform](https://img.shields.io/badge/Terraform-v1.5+-623CE4?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Provider-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-A production-inspired Infrastructure as Code (IaC) project(70% Replica of a client's project) demonstrating how to provision and manage standardized AWS environments using Terraform modules, CloudFormation bootstrapping, GitHub Actions CI/CD, security scanning, monitoring, and governance controls.
+A production-level Infrastructure as Code (IaC) project(70% Replica of a client's project) demonstrating how to provision and manage standardized AWS environments using Terraform modules, CloudFormation bootstrapping, GitHub Actions CI/CD, security scanning, monitoring, and governance controls.
 
 The project follows enterprise DevOps practices including remote state management, infrastructure modularization, deployment approvals, security validation, environment isolation, and operational monitoring.
 
@@ -451,7 +451,7 @@ terraform apply
 
 ---
 
-## Skills Demonstrated
+## Tech Stack Demonstrated
 
 * Terraform Modules
 * Infrastructure as Code (IaC)
